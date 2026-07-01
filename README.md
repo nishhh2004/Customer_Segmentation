@@ -35,9 +35,9 @@ The dataset consists of 3,900 e-commerce transactions from a U.S.-based retail c
 3. **Inventory Optimization:** Recommended aggressive discounting on underperforming 'Outerwear' items while protecting the profit margins of high-performing 'Clothing' and 'Accessories'.
 
 ### 📊 Executive Dashboard
-*(Drop your `Ultimate_Executive_Dashboard.png` file into your GitHub repo and link it here!)*
+*(Drop your `dashboard.png` file into your GitHub repo and link it here!)*
 
-![Executive Dashboard](./dashboard.png)
+![Dashboard](./dashboard.png)
 
 ## ⚙️ How to Run the Project
 
@@ -50,4 +50,4 @@ The dataset consists of 3,900 e-commerce transactions from a U.S.-based retail c
 
 3.Open the Jupyter Notebook (Customer_Segmentation.ipynb) to view the Python data pipeline and dashboard rendering.
 
-4. To view the visual ML pipeline, download Orange Data Mining and open the included CDACL-002_Clustering_Workflow.ows file.
+4. To view the visual ML pipeline, download Orange Data Mining and open the included orange.ows file.
