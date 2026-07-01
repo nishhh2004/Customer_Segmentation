@@ -48,7 +48,7 @@ The dataset consists of 3,900 e-commerce transactions from a U.S.-based retail c
 2. Install the required Python libraries:
    pip install pandas numpy matplotlib seaborn scikit-learn
 
-3. Data Setup: Ensure the project_shopping_trends.csv file is located in the same directory as the Jupyter Notebook. (No database configuration or credentials are required).
+3. Data Setup: Ensure the shopping_table.csv file is located in the same directory as the Jupyter Notebook. (No database configuration or credentials are required).
 
 4. Open the Jupyter Notebook (Customer_Segmentation.ipynb) to view the Python data pipeline and dashboard rendering.
 
